@@ -4,19 +4,19 @@
     "url": "https://myvapereview.com/",
     "icon": "https://icons.duckduckgo.com/ip3/myvapereview.com.ico",
     "slug": "myvapereview",
-    "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 70,
-    "timeDay": 70,
-    "timeWeek": 70,
-    "timeMonth": 70,
-    "timeYear": 70,
+    "status": "up",
+    "uptime": "0.19%",
+    "uptimeDay": "0.19%",
+    "uptimeWeek": "0.19%",
+    "uptimeMonth": "0.19%",
+    "uptimeYear": "0.19%",
+    "time": 78,
+    "timeDay": 78,
+    "timeWeek": 78,
+    "timeMonth": 78,
+    "timeYear": 78,
     "dailyMinutesDown": {
-      "2023-02-27": 41
+      "2023-02-27": 56
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://rsshub.acos.one/",
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.acos.one.ico",
     "slug": "rsshub",
-    "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
-    "time": 108,
-    "timeDay": 108,
-    "timeWeek": 108,
-    "timeMonth": 108,
-    "timeYear": 108,
+    "status": "up",
+    "uptime": "0.17%",
+    "uptimeDay": "0.17%",
+    "uptimeWeek": "0.17%",
+    "uptimeMonth": "0.17%",
+    "uptimeYear": "0.17%",
+    "time": 235,
+    "timeDay": 235,
+    "timeWeek": 235,
+    "timeMonth": 235,
+    "timeYear": 235,
     "dailyMinutesDown": {
-      "2023-02-27": 21
+      "2023-02-27": 35
     }
   }
 ]
